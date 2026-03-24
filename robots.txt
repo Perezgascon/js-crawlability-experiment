@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://Perezgascon.github.io/js-crawlability-experiment/sitemap.xml
+Sitemap: https://perezgascon.github.io/js-crawlability-experiment/sitemap.xml
