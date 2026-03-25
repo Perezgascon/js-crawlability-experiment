@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://perezgascon.github.io/js-crawlability-experiment/</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
+
   <url>
     <loc>https://perezgascon.github.io/js-crawlability-experiment/page-a.html</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
+
   <url>
     <loc>https://perezgascon.github.io/js-crawlability-experiment/page-b.html</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
+
   <url>
     <loc>https://perezgascon.github.io/js-crawlability-experiment/page-c.html</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
+
   <url>
     <loc>https://perezgascon.github.io/js-crawlability-experiment/page-d.html</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
+
 </urlset>
