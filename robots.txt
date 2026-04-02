@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://js-crawlability-experiment.vercel.app/sitemap.xml/
+Sitemap: https://js-crawlability-experiment.vercel.app/sitemap.xml
